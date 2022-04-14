@@ -9,8 +9,8 @@ This is my opensource automation splunk framework+guide and explanation of vario
 ## Search
 #### search/jobs/export
 ```https://<host>:<mPort>/services/search/jobs/export```
-Stream search results as they become available.
-The GET and POST operations on this endpoint perform a search identical to a POST to search/jobs. For parameter and returned value descriptions, see search/jobs.
+- Stream search results as they become available.
+- The GET and POST operations on this endpoint perform a search identical to a POST to search/jobs. For parameter and returned value descriptions, see search/jobs.
 
 
 Performs a search identical to POST search/jobs 
